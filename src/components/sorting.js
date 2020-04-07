@@ -1,4 +1,4 @@
-export const createBoardTemplate = () => {
+export const createSortingTemplate = () => {
   return (
     `<section class="board container">
            <div class="board__filter-list">
